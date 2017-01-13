@@ -1,0 +1,16 @@
+{
+  "name": "xlate-encoder",
+  "version": "1.0.0",
+  "description": "xlate encoder is a super basic translator into different formats on a webclient",
+  "main": "static/js/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mio Bambino",
+  "license": "GPL-2.0",
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-plugin-transform-es2015-arrow-functions": "^6.8.0",
+    "babel-preset-es2015": "^6.18.0"
+  }
+}
